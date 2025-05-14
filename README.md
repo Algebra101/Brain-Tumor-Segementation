@@ -1,5 +1,5 @@
 
- Brain Tumor Detection using YOLO and SAM
+ Brain Tumor Detection using YOLO11 and SAM2_Model
 
  📌 Overview
 This project focuses on detecting brain tumors using **YOLO** object detection and **Segment Anything Model (SAM)** for precise segmentation. The model is trained on a dataset sourced from **Roboflow**, and inference is performed on test images for detailed analysis.
